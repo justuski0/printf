@@ -1,7 +1,7 @@
 #include "main.h"
 
-/************************* WRITE HANDLE *************************/
 /**
+ * By Justus and Mary
  * handle_write_char - Prints a string
  * @c: char types.
  * @buffer: Buffer array to handle print
